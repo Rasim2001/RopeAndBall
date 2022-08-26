@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 490f0f73686baaf4f9477f6bf3b3aa97, type: 3}
+  m_Name: PrefabsData
+  m_EditorClassIdentifier: 
+  GAME_VIEW: {fileID: 986660906361926725, guid: 1527102bddd242845a9f5e54406d6271, type: 3}
+  MAINMENU_VIEW: {fileID: 463014210813266736, guid: 9f876df9f4abd9a44bd56b79d3a3c591, type: 3}
+  WEIGHT_VIEW: {fileID: 1569963038, guid: f91c1e8df31f6074d84ba8aadeaeff68, type: 3}
+  MAINSTAY_VIEW: {fileID: 7965025043517443392, guid: a2a47e10fc7a5344a9fc911848d03949, type: 3}
+  SETTINGS_VIEW: {fileID: 6716670050563449753, guid: 8ef1fc1dd6326e44280f47cd2aab2765, type: 3}
+  SHOP_VIEW: {fileID: 2522306898888560683, guid: 04fa0a51adfd5e24d83c326aeab293a2, type: 3}
+  PALETTE_SHOP_VIEW: {fileID: 2013110000860832666, guid: 57cc7d2da05d9224691450158a13b4fd, type: 3}
+  PALETTE_SHOP_ITEM: {fileID: 8672698512246021003, guid: dc2048c81eb92d443bd3088bc179e077, type: 3}
+  CURRENT_MENU_VIEW: {fileID: 8449795046581895045, guid: bb268bd6adbfb254c9db9fee4d9cc767, type: 3}
+  ADS_MENU_VIEW: {fileID: 8626729315942055750, guid: 9ff5ce5e54d2cf94e825297ce28aa566, type: 3}
+  GAME_OVER_VIEW: {fileID: 7255344354120670259, guid: 948640cf639803642b31428768832bbe, type: 3}
+  INPUT_MANAGER: {fileID: 5242313924165743751, guid: d5f092e74f83be84696b5a6e41bdf471, type: 3}

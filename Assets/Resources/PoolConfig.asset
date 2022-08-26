@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7571eb6a6174af6418233cb4c4c72730, type: 3}
+  m_Name: PoolConfig
+  m_EditorClassIdentifier: 
+  _pools:
+  - prefab: {fileID: 4059833476553351379, guid: a2a47e10fc7a5344a9fc911848d03949, type: 3}
+    id: 1
+    switchGameObject: 1
+  - prefab: {fileID: 8449422980790844572, guid: f91c1e8df31f6074d84ba8aadeaeff68, type: 3}
+    id: 2
+    switchGameObject: 1
+  - prefab: {fileID: 7357658788008109500, guid: eb4396b13df80dc4eb62120d5e13e80e, type: 3}
+    id: 3
+    switchGameObject: 1
+  - prefab: {fileID: 808105419154789843, guid: 56021bd67a8c357418355d9bb78770b1, type: 3}
+    id: 4
+    switchGameObject: 1
+  - prefab: {fileID: 6697599177742257139, guid: 944003b2ecc370a4e9bb6df4741ff328, type: 3}
+    id: 5
+    switchGameObject: 1
+  - prefab: {fileID: 3599551974655784735, guid: 35786a3ea8b76814f80e5f52ff3663da, type: 3}
+    id: 6
+    switchGameObject: 1
+  - prefab: {fileID: -1161265495470146592, guid: ca4cd8ccd4b3715428c7256c36261b5e, type: 3}
+    id: 7
+    switchGameObject: 1

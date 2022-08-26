@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af62b47be1c107f4682ae72dfc3d2453, type: 3}
+  m_Name: SOInstaller
+  m_EditorClassIdentifier: 
+  colorsConfig:
+  - {fileID: 11400000, guid: b72a3ba0ffca3e840b3adb80cbf35c0b, type: 2}
+  - {fileID: 11400000, guid: 8fa99e47460707f4bbf95e34ad009d99, type: 2}
+  - {fileID: 11400000, guid: b1bdf4dec5756984eb316f067e3a3bca, type: 2}
+  shopItemData:
+  - {fileID: 11400000, guid: 936d98e370a71c046a2e713dc8ef210c, type: 2}
+  - {fileID: 11400000, guid: 0270bad7efa6a1d47a67411870577d77, type: 2}
+  - {fileID: 11400000, guid: 26a54834fff3c684b9c15fa40374f423, type: 2}
+  prefabListMapItems:
+  - {fileID: 11400000, guid: 78576945182be584a84dc08c2ff5e2ff, type: 2}
